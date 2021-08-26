@@ -1,0 +1,24 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Cognitive neuroscience}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Catastrophic interference}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Complementary learning systems}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Replay}{4}{subsection.2.3}
+\contentsline {section}{\numberline {3}Machine learning}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Artificial neural networks}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Unsupervised learning}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Denoising autoencoders}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Dynamical systems}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Iterative fixed points}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Attractors}{7}{subsection.4.2}
+\contentsline {section}{\numberline {5}Methods}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Dataset}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Experimental setup}{9}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Pattern generation}{9}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Reliability and limitations}{10}{subsection.5.4}
+\contentsline {section}{\numberline {6}Results}{11}{section.6}
+\contentsline {subsection}{\numberline {6.1}Underparameterized scenario}{11}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Overparameterized scenario}{11}{subsection.6.2}
+\contentsline {section}{\numberline {7}Discussion}{13}{section.7}
+\contentsline {section}{\numberline {8}Conclusions}{14}{section.8}
+\contentsline {section}{\numberline {9}Recommendations}{15}{section.9}

@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{fosse2003dreaming}
+Magdalena~J. {Fosse}, Roar {Fosse}, J.~Allan {Hobson}, and Robert~J.
+  {Stickgold}.
+\newblock Dreaming and episodic memory: A functional dissociation?
+\newblock {\em Journal of Cognitive Neuroscience}, 15(1):1--9, 2003.
+
+\bibitem{genzel2014light}
+Lisa {Genzel}, Marijn~C.W. {Kroes}, Martin {Dresler}, and Francesco~P.
+  {Battaglia}.
+\newblock Light sleep versus slow wave sleep in memory consolidation: a
+  question of global versus local processes?
+\newblock {\em Trends in Neurosciences}, 37(1):10--19, 2014.
+
+\bibitem{Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem{hawkins2004the}
+Douglas~M. {Hawkins}.
+\newblock The problem of overfitting.
+\newblock {\em Journal of Chemical Information and Computer Sciences},
+  44(1):1--12, 2004.
+
+\bibitem{hinton1987learning}
+Geoffrey~E. {Hinton} and James~L. {McClelland}.
+\newblock Learning representations by recirculation.
+\newblock In {\em Neural Information Processing Systems}, pages 358--366, 1987.
+
+\bibitem{batch_norm}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock {\em CoRR}, abs/1502.03167, 2015.
+
+\bibitem{ji2007coordinated}
+Daoyun {Ji} and Matthew~A {Wilson}.
+\newblock Coordinated memory replay in the visual cortex and hippocampus during
+  sleep.
+\newblock {\em Nature Neuroscience}, 10(1):100--107, 2007.
+
+\bibitem{keskar2016on}
+Nitish~Shirish {Keskar}, Dheevatsa {Mudigere}, Jorge {Nocedal}, Mikhail
+  {Smelyanskiy}, and Ping Tak~Peter {Tang}.
+\newblock On large-batch training for deep learning: Generalization gap and
+  sharp minima.
+\newblock In {\em 5th International Conference on Learning Representations,
+  ICLR 2017}, 2016.
+
+\bibitem{mcclelland2020integration}
+James~L {McClelland}, Bruce~L {McNaughton}, and Andrew~K {Lampinen}.
+\newblock Integration of new information in memory: new insights from a
+  complementary learning systems perspective.
+\newblock {\em Philosophical Transactions of the Royal Society B},
+  375(1799):20190637--20190637, 2020.
+
+\bibitem{mcclelland1995why}
+James~L. {McClelland}, Bruce~L. {McNaughton}, and Randall~C. {O'Reilly}.
+\newblock Why there are complementary learning systems in the hippocampus and
+  neocortex: insights from the successes and failures of connectionist models
+  of learning and memory.
+\newblock {\em Psychological Review}, 102(3):419--457, 1995.
+
+\bibitem{mccloskey1989catastrophic}
+Michael {McCloskey} and Neal~J. {Cohen}.
+\newblock Catastrophic interference in connectionist networks: The sequential
+  learning problem.
+\newblock volume~24, pages 109--165. 1989.
+
+\bibitem{mesnil2012unsupervised}
+Grégoire {Mesnil}, Yann~N. {Dauphin}, Xavier {Glorot}, Salah {Rifai}, Yoshua
+  {Bengio}, Ian~J. {Goodfellow}, Erick {Lavoie}, Xavier {Muller}, Guillaume
+  {Desjardins}, David {Warde-Farley}, Pascal {Vincent}, Aaron~C. {Courville},
+  and James {Bergstra}.
+\newblock Unsupervised and transfer learning challenge: a deep learning
+  approach.
+\newblock In {\em Proceedings of ICML Workshop on Unsupervised and Transfer
+  Learning}, pages 97--110, 2012.
+
+\bibitem{paszke2019pytorch}
+Adam {Paszke}, Sam {Gross}, Francisco {Massa}, Adam {Lerer}, James {Bradbury},
+  Gregory {Chanan}, Trevor {Killeen}, Zeming {Lin}, Natalia {Gimelshein}, Luca
+  {Antiga}, Alban {Desmaison}, Andreas {Kopf}, Edward {Yang}, Zachary {DeVito},
+  Martin {Raison}, Alykhan {Tejani}, Sasank {Chilamkurthy}, Benoit {Steiner},
+  Lu~{Fang}, Junjie {Bai}, and Soumith {Chintala}.
+\newblock Pytorch: An imperative style, high-performance deep learning library.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~32, pages 8026--8037, 2019.
+
+\bibitem{ratcliff1990connectionist}
+Roger {Ratcliff}.
+\newblock Connectionist models of recognition memory: Constraints imposed by
+  learning and forgetting functions.
+\newblock {\em Psychological Review}, 97(2):285--308, 1990.
+
+\bibitem{rogers2004semantic}
+Timothy~T. Rogers and James~L. McClelland.
+\newblock {\em {Semantic Cognition: A Parallel Distributed Processing
+  Approach}}.
+\newblock The MIT Press, 06 2004.
+
+\bibitem{rumelhart1986a}
+D.~E. {Rumelhart}, G.~E. {Hinton}, and J.~L. {McClelland}.
+\newblock {\em A general framework for parallel distributed processing}.
+\newblock 1986.
+
+\bibitem{rumelhart1988learning}
+David~E. {Rumelhart}, Geoffrey~E. {Hinton}, and Ronald~J. {Williams}.
+\newblock {\em Learning representations by back-propagating errors}, volume
+  323.
+\newblock 1988.
+
+\bibitem{saxe2019a}
+Andrew~M. {Saxe}, James~L. {McClelland}, and Surya {Ganguli}.
+\newblock A mathematical theory of semantic development in deep neural
+  networks.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 116(23):11537--11546, 2019.
+
+\bibitem{schaul2016prioritized}
+Tom {Schaul}, John {Quan}, Ioannis {Antonoglou}, and David {Silver}.
+\newblock Prioritized experience replay.
+\newblock In {\em ICLR 2016 : International Conference on Learning
+  Representations 2016}, 2016.
+
+\bibitem{dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(56):1929--1958, 2014.
+
+\bibitem{strogatz1994nonlinear}
+Steven~H. {Strogatz}.
+\newblock {\em Nonlinear dynamics and Chaos}.
+\newblock 1994.
+
+\bibitem{tang2017hippocampal}
+Wenbo {Tang}, Justin~D. {Shin}, Loren~M. {Frank}, and Shantanu~P. {Jadhav}.
+\newblock Hippocampal-prefrontal reactivation during learning is stronger in
+  awake compared with sleep states.
+\newblock {\em The Journal of Neuroscience}, 37(49):11789--11805, 2017.
+
+\bibitem{ven2020brain}
+Gido~M. van~de {Ven}, Hava~T. {Siegelmann}, and Andreas~S. {Tolias}.
+\newblock Brain-inspired replay for continual learning with artificial neural
+  networks.
+\newblock {\em Nature Communications}, 11(1):4069--4069, 2020.
+
+\end{thebibliography}

@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Cognitive neuroscience}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Catastrophic interference}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Complementary learning systems}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Replay}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Machine learning}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Artificial neural networks}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Unsupervised learning}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Denoising autoencoders}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Dynamical systems}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Iterative fixed points}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Attractors}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Methods}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Dataset}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Experimental setup}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Pattern generation}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.4}{Reliability and limitations}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Results}{}% 18
+\BOOKMARK [2][-]{subsection.6.1}{Underparameterized scenario}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.2}{Overparameterized scenario}{section.6}% 20
+\BOOKMARK [1][-]{section.7}{Discussion}{}% 21
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 22
+\BOOKMARK [1][-]{section.9}{Recommendations}{}% 23

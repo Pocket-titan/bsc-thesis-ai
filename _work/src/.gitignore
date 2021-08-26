@@ -1,0 +1,5 @@
+_preamble.ipynb
+pyproject.toml
+plots/
+scratch/
+__pycache__/

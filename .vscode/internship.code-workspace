@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "../"
+    }
+  ],
+  "settings": {
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": true,
+    "python.pythonPath": "~/Github/deep/.venv/bin/python",
+    "jupyter.jupyterServerType": "local",
+    // "python.pythonPath": ".venv/bin/python",
+    "python.venvPath": ".venv"
+  }
+}

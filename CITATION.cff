@@ -4,7 +4,8 @@ authors:
   - family-names: "Jelmar"
     given-names: "Gerritsen"
     orcid: "https://orcid.org/0000-0001-5434-1490"
-title: "Pocket-titan/bsc-thesis-ai: 1.0"
+title: "Pocket-titan/bsc-thesis-ai"
 version: 1.0
 doi: 10.5281/zenodo.5329867
 date-released: 2021-08-29
+url: "https://github.com/Pocket-titan/bsc-thesis-ai"
